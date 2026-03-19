@@ -1,0 +1,2 @@
+# test_notsusan_dashboard
+野津さん以来のダッシュボードのプロトタイプ作成用のリポジトリ
