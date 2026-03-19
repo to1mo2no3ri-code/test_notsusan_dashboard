@@ -1,0 +1,5 @@
+{
+  "name": "野津さんダッシュボード構想用",
+  "description": "CSVやBigQueryの広告データを可視化し、目標設定やコメント入力、履歴管理が可能な高機能分析ダッシュボードです。",
+  "requestFramePermissions": []
+}
